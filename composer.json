@@ -8,7 +8,7 @@
         "source": "https://github.com/liulipeng/yii2-alipay"
     },
     "require": {
-        "yiisoft/yii2": "~2.0.4"
+        "yiisoft/yii2": "~2.0.14"
     },
     "license": "BSD-3-Clause",
     "authors": [
