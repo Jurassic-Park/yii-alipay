@@ -21,6 +21,7 @@ use qianlizeguo\alipay\AlipayMd5;
 class AlipaySubmit {
 
 	var $alipay_config;
+
 	/**
 	 *支付宝网关地址（新）
 	 */

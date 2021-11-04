@@ -19,6 +19,7 @@ class AlipayCore {
 	 * return 拼接完成以后的字符串
 	 */
 	public static function createLinkstring($para) {
+
 		$arg  = "";
 		foreach ($para as $key => $val) {
             $arg.=$key."=".$val."&";
